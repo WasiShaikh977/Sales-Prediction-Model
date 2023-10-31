@@ -8,7 +8,7 @@ We had data from a chain of stores selling food items. The data was divided into
 
   ![](https://github.com/WasiShaikh977/Sales-Prediction-Model/blob/main/DL_RMSE.png)
 
-  ### Resources
+### Resources
 **Python Version:** 3.11
 
 
